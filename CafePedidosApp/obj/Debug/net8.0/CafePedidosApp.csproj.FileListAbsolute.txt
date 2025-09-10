@@ -1,0 +1,14 @@
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\bin\Debug\net8.0\CafePedidosApp.exe
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\bin\Debug\net8.0\CafePedidosApp.deps.json
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\bin\Debug\net8.0\CafePedidosApp.runtimeconfig.json
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\bin\Debug\net8.0\CafePedidosApp.dll
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\bin\Debug\net8.0\CafePedidosApp.pdb
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.AssemblyInfoInputs.cache
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.AssemblyInfo.cs
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.dll
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\refint\CafePedidosApp.dll
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.pdb
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\CafePedidosApp.genruntimeconfig.cache
+C:\Users\Mateo\Documents\ITM\2025-2\ProgDist\CafePedidosApp\obj\Debug\net8.0\ref\CafePedidosApp.dll

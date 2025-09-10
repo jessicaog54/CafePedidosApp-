@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafePedidosApp", "CafePedidosApp.csproj", "{115E500D-918B-4B5B-8800-7E5DD31FC280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115E500D-918B-4B5B-8800-7E5DD31FC280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115E500D-918B-4B5B-8800-7E5DD31FC280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115E500D-918B-4B5B-8800-7E5DD31FC280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115E500D-918B-4B5B-8800-7E5DD31FC280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83285939-B4A5-433F-AFC9-B11B49DA0D7A}
+	EndGlobalSection
+EndGlobal
